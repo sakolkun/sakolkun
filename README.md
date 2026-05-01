@@ -116,17 +116,5 @@ Provides a GitHub heatmap-style calendar:
 
 ---
 
-<blockquote align="center">
-❤️ <strong>រំពឹងពាក្យពិតរសាត់តាមខ្យល់ 😢</strong><br><br>
-ស្រឡាញ់គេម្នាក់ឯង ចិត្តឯងប្រគល់ឱ្យគេ 🎈<br>
-តែពេលខ្លះគេស្រឡាញ់ឯង គ្រាន់តែជាការអាសូរដល់ឯង 😢<br>
-បេះដូងស្ទើរប្រះបែក 💔 តែត្រូវនៅស្ងៀមធ្វើដូចមនុស្សខ្លាំង 💪<br>
-លែងស្រឡាញ់គេទៀតទៅ ដើម្បីសុភមង្គលខ្លួនឯង ❤️‍🩹 <br>
-មានតែការសរសេរកូដ 💻 គឺជាឱសុទព្យាបាលបេះដូង 💊❤️‍🩹 <br><br>
-បំណង់ល្អពី<b>បុរសស្មោះស្នេហ៍​</b> 🐱❤️😊
-</blockquote>
-
----
-
 _Thank you for visiting my profile! I'm always open to collaboration and learning new things. Let's build something amazing together._
 
