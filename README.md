@@ -16,6 +16,7 @@ From backend APIs to frontend design — building things that just work makes me
 ## 🚀 Tech Stack
 
 ### 🧠 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=flat)
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=flat)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
@@ -25,11 +26,22 @@ From backend APIs to frontend design — building things that just work makes me
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white&style=flat)
 
 ### 🛠️ Backend
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot&logoColor=white&style=flat)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?logo=springsecurity&logoColor=white&style=flat)
+![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?logo=spring&logoColor=white&style=flat)
 ![Gin](https://img.shields.io/badge/Gin-Golang-blue?style=flat)
 ![Laravel](https://img.shields.io/badge/Laravel-F55247?logo=laravel&logoColor=white&style=flat)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?logo=codeigniter&logoColor=white&style=flat)
 ![REST API](https://img.shields.io/badge/REST-API-green?style=flat)
 ![Microservices](https://img.shields.io/badge/Microservices-architecture-blueviolet?style=flat)
+
+## 💼 Backend Expertise
+
+- ⚙️ Building scalable APIs with **Spring Boot (Java)**
+- 🔐 Secure systems using **JWT, Spring Security, RBAC**
+- 🗄️ Designing high-performance databases (MySQL, PostgreSQL, Redis)
+- 🧱 Applying **Clean Architecture & Domain-Driven Design (DDD)**
+- 🔄 Handling complex business logic (Payment, Loan Schedule, Real Estate Systems)
 
 ### ⚡ Real-Time Technologies
 ![WebSocket](https://img.shields.io/badge/WebSocket-Communication-FF6F00?style=flat)
